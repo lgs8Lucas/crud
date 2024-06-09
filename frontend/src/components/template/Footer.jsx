@@ -3,7 +3,9 @@ import React from 'react'
 
 const Footer = props =>{
     return <footer className="footer">
-        Rodapé
+        <span>
+            Desenvolvido com <i className="fa fa-heart text-danger"></i> por <strong>Lucas Gonçalves</strong>
+        </span>
     </footer>
 }
 
