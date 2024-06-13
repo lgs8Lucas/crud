@@ -1,29 +1,14 @@
 {
   "users": [
     {
-      "id": "1",
-      "name": "Lucas",
+      "id": "70da",
+      "name": "Lucas Gonçalves Silva",
       "email": "lgs.08lucas@gmail.com"
     },
     {
-      "id": "2",
-      "name": "Maria",
-      "email": "maria@gmail.com"
-    },
-    {
-      "id": "3",
-      "name": "Lucas",
-      "email": "lgs.08lucas@gmail.com"
-    },
-    {
-      "id": "4",
-      "name": "João",
-      "email": "joao@mail.com.br"
-    },
-    {
-      "id": "3a75",
-      "name": "Ana",
-      "email": "anamaria@yahoo.com"
+      "id": "78e7",
+      "name": "Lucas Gonçalves Silva",
+      "email": "lucasgsilva@alunos.fho.edu.br"
     }
   ]
 }
