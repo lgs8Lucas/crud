@@ -12,7 +12,7 @@ const initialState = {
 const headerProps = {
     icon: 'users',
     title: 'Usuários',
-    subtitles: 'Cadastro de usuários: Incluir, Listar, Alterar e Excluir'
+    subtitle: 'Cadastro de usuários: Incluir, Listar, Alterar e Excluir'
 }
 
 export default class UserCrud extends Component {
