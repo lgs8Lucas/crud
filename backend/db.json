@@ -1,12 +1,29 @@
 {
-    "users":[{
-        "id":1,
-        "name": "Lucas",
-        "email": "lgs.08lucas@gmail.com"
+  "users": [
+    {
+      "id": "1",
+      "name": "Lucas",
+      "email": "lgs.08lucas@gmail.com"
     },
     {
-        "id":2,
-        "name": "Maria",
-        "email": "maria@gmail.com"
-    }]
+      "id": "2",
+      "name": "Maria",
+      "email": "maria@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Lucas",
+      "email": "lgs.08lucas@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "João",
+      "email": "joao@mail.com.br"
+    },
+    {
+      "id": "3a75",
+      "name": "Ana",
+      "email": "anamaria@yahoo.com"
+    }
+  ]
 }
